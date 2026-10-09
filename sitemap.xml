@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.citystarmachinery.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.citystarmachinery.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.citystarmachinery.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://www.citystarmachinery.com/ms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.citystarmachinery.com/"/>
+  </url>
+  <url>
+    <loc>https://www.citystarmachinery.com/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.citystarmachinery.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.citystarmachinery.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://www.citystarmachinery.com/ms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.citystarmachinery.com/"/>
+  </url>
+  <url>
+    <loc>https://www.citystarmachinery.com/ms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.citystarmachinery.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.citystarmachinery.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://www.citystarmachinery.com/ms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.citystarmachinery.com/"/>
+  </url>
+</urlset>
